@@ -1,0 +1,36 @@
+body { 
+   /* background-image: url(images/garden3.jpg);*/
+    background-color: transparent;
+    margin: 10px;
+    
+}
+h1, h2 {
+    text-transform: capitalize;
+    text-align: center;
+}
+ul, ol {
+    text-transform: capitalize;
+}
+.text {
+    width: 20px;
+}
+.number {
+    box-sizing: content-box;
+    width: 5%;
+}
+g45 { 
+    background-color: antiquewhite;
+    font-size: 250px;
+}
+p strong {
+    margin: 200px;
+}
+#f23 {
+    border: 100px;
+    padding: 2%
+} 
+input 
+{ color: black;
+    resize: horizontal, 10%;
+    
+}
